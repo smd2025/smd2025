@@ -1,81 +1,67 @@
-<!-- Banner animado -->
-<img src="https://i.ibb.co/0rYb3Ct/banner-github.gif" width="100%" />
-
-<h1 align="center">👋 ¡Hola! Soy <span style="color:#0ff;">Rene Caraballo García</span> 🚀</h1>
-
+<!-- Futuristic Banner -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2800&pause=200&color=00F7FF&center=true&vCenter=true&width=650&lines=Full+Stack+Developer+%7C+Backend+Specialist;Experto+en+Microservicios+con+NestJS;Cloud+%7C+DevOps+%7C+Arquitectura+Escalable;3%2B+Años+de+experiencia+en+Super+Mente+Digital+S.R.L;Apasionado+por+la+ciberseguridad+y+la+automatización" alt="Typing Animation" />
+  <img src="https://i.imgur.com/w5aJXan.gif" width="800px" alt="Futuristic Banner"/>
 </p>
 
+# 👋 Hola, soy Rene Caraballo García  
+
+💻 Desarrollador Full Stack con más de **3 años de experiencia** en **Super Mente Digital S.R.L**, creando soluciones web de alto rendimiento.  
+⚡ Apasionado por el **backend robusto**, el **frontend dinámico** y la **arquitectura con microservicios**.  
+🚀 Siempre buscando aprender, innovar y llevar las cosas al siguiente nivel.
+
 ---
 
-## 🚀 Sobre mí
-Soy **Full Stack Developer** con fuerte especialización en **Backend y Microservicios**.  
-Actualmente me desempeño como desarrollador en **Super Mente Digital S.R.L** con más de **3 años de experiencia** creando soluciones escalables, seguras y de alto rendimiento.
-
----
-
-## 🛠️ Tecnologías que domino
+## 🛠️ Tecnologías y herramientas que manejo
 
 <p align="center">
   <!-- Lenguajes -->
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,php,python" /><br>
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,php,py" />
+  <img src="https://skillicons.dev/icons?i=jquery,ajax" />
+  <br/>
   <!-- Frameworks -->
-  <img src="https://skillicons.dev/icons?i=nestjs,nodejs,express" /><br>
+  <img src="https://skillicons.dev/icons?i=nestjs,nodejs" />
+  <br/>
   <!-- Bases de datos -->
-  <img src="https://skillicons.dev/icons?i=mysql,postgres" /><br>
+  <img src="https://skillicons.dev/icons?i=mysql,postgres" />
+  <br/>
   <!-- DevOps -->
-  <img src="https://skillicons.dev/icons?i=docker,kubernetes,aws" /><br>
-  <!-- Tools -->
-  <img src="https://skillicons.dev/icons?i=git,github,linux" />
+  <img src="https://skillicons.dev/icons?i=docker,kubernetes,aws" />
+  <br/>
+  <!-- Otros -->
+  <img src="https://skillicons.dev/icons?i=git,github,vscode" />
 </p>
 
 ---
 
-## 📊 Mis Stats en GitHub
-<p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=smd2025&show_icons=true&theme=radical&hide_border=true&count_private=true" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=smd2025&theme=radical&hide_border=true" />
-</p>
+## 📊 Mis estadísticas en GitHub
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=smd2025&theme=darkhub&no-frame=true&margin-w=15" />
+  <img src="https://github-readme-stats.vercel.app/api?username=smd2025&show_icons=true&theme=radical&hide_border=true" width="49%"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=smd2025&theme=radical&hide_border=true" width="49%"/>
 </p>
 
----
-
-## 🌐 Proyectos Destacados
-
-🔗 **[🌍 Portfolio](https://smd2025.github.io/portfolio/)** – Mi portafolio personal con algunos proyectos profesionales.  
-
-⚡ **Microservicios con NestJS** – Arquitectura escalable basada en API Rest.  
-
-☁️ **CI/CD con Docker, Kubernetes y AWS** – Pipeline automatizado para despliegues.  
-
-💻 **Sistemas Web con PHP Core** – Backend sólido y optimizado.  
-
----
-
-## 🔥 Animación Interactiva
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=smd2025&bg_color=000000&color=00FF00&line=39FF14&point=FFFFFF&area=true&hide_border=true"/>
 </p>
 
 ---
 
-## 📫 Conecta conmigo
+## 🌐 Portfolio
+🔗 [Mi portfolio](https://smd2025.github.io/portfolio/)  
+
+---
+
+## 📡 Contacto  
+
 <p align="center">
-  <a href="https://www.linkedin.com/in/rene-caraballo-garcia" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="mailto:rene.dev2025@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-  <a href="https://smd2025.github.io/portfolio/">
-    <img src="https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=vercel&logoColor=white"/>
-  </a>
+  📧 **Email:** supermentedigital.srl@gmail.com  
+  📱 **WhatsApp:** [+53 55791959](https://wa.me/5355791959)  
+  🐙 **GitHub:** [smd2025](https://github.com/smd2025)
 </p>
 
 ---
 
-⚡ *"El código no es solo lógica, también es arte. Mi misión es construir software que deje huella."*
+<!-- Futuristic Footer -->
+<p align="center">
+  <img src="https://i.imgur.com/8MupZHY.gif" width="400px" alt="Futuristic Animation"/>
+</p>
