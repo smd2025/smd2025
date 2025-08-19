@@ -52,7 +52,7 @@ Monitoreo: Prometheus · Grafana · Seguridad: UFW · Fail2ban · SSL
 
 ##  Conecta conmigo
 
-[![Email](https://img.shields.io/badge/Email-Contact me-blue?style=flat-square)](mailto:tuemail@ejemplo.com)  
+[![Email](https://img.shields.io/badge/Email-Contact me-blue?style=flat-square)](mailto:supermentedigital.srl@gmail.com)  
 [![GitHub](https://img.shields.io/badge/GitHub-smd2025-black?style=flat-square)](https://github.com/smd2025)  
 [![Portfolio](https://img.shields.io/badge/Portfolio-Live-Site-blue?style=flat-square)](https://smd2025.github.io/portfolio/)
 
