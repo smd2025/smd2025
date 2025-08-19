@@ -1,103 +1,81 @@
 <!-- Banner animado -->
+<img src="https://i.ibb.co/0rYb3Ct/banner-github.gif" width="100%" />
+
+<h1 align="center">👋 ¡Hola! Soy <span style="color:#0ff;">Rene Caraballo García</span> 🚀</h1>
+
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,100:302b63&height=200&section=header&text=René%20Caraballo%20García&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=35"/>
-</p>
-
-<h2 align="center">🚀 Full Stack Web Developer | 🛡️ Ciberseguridad | ☁️ DevOps</h2>
-<p align="center">
-  Con +3 años de experiencia en <b>Super Mente Digital S.R.L.</b>, construyendo soluciones <b>robustas, seguras y escalables</b>.
-</p>
-
----
-
-## 💻 Stack Tecnológico
-
-### 🎨 Frontend
-<p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original.svg" width="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" width="50"/>
-</p>
-
-### ⚙️ Backend
-<p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-plain.svg" width="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain.svg" width="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" width="50"/>
-</p>
-
-### ☁️ DevOps & Cloud
-<p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" width="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" width="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" width="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/grafana/grafana-original.svg" width="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/prometheus/prometheus-original.svg" width="50"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2800&pause=200&color=00F7FF&center=true&vCenter=true&width=650&lines=Full+Stack+Developer+%7C+Backend+Specialist;Experto+en+Microservicios+con+NestJS;Cloud+%7C+DevOps+%7C+Arquitectura+Escalable;3%2B+Años+de+experiencia+en+Super+Mente+Digital+S.R.L;Apasionado+por+la+ciberseguridad+y+la+automatización" alt="Typing Animation" />
 </p>
 
 ---
 
-## 🏆 Estadísticas de GitHub
+## 🚀 Sobre mí
+Soy **Full Stack Developer** con fuerte especialización en **Backend y Microservicios**.  
+Actualmente me desempeño como desarrollador en **Super Mente Digital S.R.L** con más de **3 años de experiencia** creando soluciones escalables, seguras y de alto rendimiento.
+
+---
+
+## 🛠️ Tecnologías que domino
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=smd2025&show_icons=true&theme=tokyonight&hide_border=true" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=smd2025&layout=compact&theme=tokyonight&hide_border=true" height="160"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=smd2025&theme=tokyonight&hide_border=true" height="160"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=smd2025&theme=tokyo-night"/>
+  <!-- Lenguajes -->
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,php,python" /><br>
+  <!-- Frameworks -->
+  <img src="https://skillicons.dev/icons?i=nestjs,nodejs,express" /><br>
+  <!-- Bases de datos -->
+  <img src="https://skillicons.dev/icons?i=mysql,postgres" /><br>
+  <!-- DevOps -->
+  <img src="https://skillicons.dev/icons?i=docker,kubernetes,aws" /><br>
+  <!-- Tools -->
+  <img src="https://skillicons.dev/icons?i=git,github,linux" />
 </p>
 
 ---
 
-## 🚀 Proyectos Destacados
+## 📊 Mis Stats en GitHub
+<p align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=smd2025&show_icons=true&theme=radical&hide_border=true&count_private=true" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=smd2025&theme=radical&hide_border=true" />
+</p>
 
-- **SlytheerPOS** 🛒  
-  ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white) 
-  ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)  
-  Sistema POS para restaurantes con inventario, empleados y reportes.
-
-- **LaMayorAntilla.com** 🌐  
-  ![Tailwind](https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white) 
-  ![PWA](https://img.shields.io/badge/PWA-5A0FC8?style=for-the-badge&logo=pwa&logoColor=white)  
-  Plataforma de clasificados cubana: compra, venta y alquiler.
-
-- **Crypto Dashboard** 📊  
-  ![JS](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) 
-  ![API](https://img.shields.io/badge/CoinGecko-48A9A6?style=for-the-badge&logo=coingecko&logoColor=white)  
-  Tablero interactivo con datos de criptomonedas en tiempo real.
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=smd2025&theme=darkhub&no-frame=true&margin-w=15" />
+</p>
 
 ---
 
-## 🌍 Conecta conmigo
+## 🌐 Proyectos Destacados
 
+🔗 **[🌍 Portfolio](https://smd2025.github.io/portfolio/)** – Mi portafolio personal con algunos proyectos profesionales.  
+
+⚡ **Microservicios con NestJS** – Arquitectura escalable basada en API Rest.  
+
+☁️ **CI/CD con Docker, Kubernetes y AWS** – Pipeline automatizado para despliegues.  
+
+💻 **Sistemas Web con PHP Core** – Backend sólido y optimizado.  
+
+---
+
+## 🔥 Animación Interactiva
 <p align="center">
-  <a href="mailto:supermentedigital.srl@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact%20Me-red?style=for-the-badge&logo=gmail" />
+  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+</p>
+
+---
+
+## 📫 Conecta conmigo
+<p align="center">
+  <a href="https://www.linkedin.com/in/rene-caraballo-garcia" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="https://github.com/smd2025">
-    <img src="https://img.shields.io/badge/GitHub-smd2025-black?style=for-the-badge&logo=github" />
+  <a href="mailto:rene.dev2025@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
   <a href="https://smd2025.github.io/portfolio/">
-    <img src="https://img.shields.io/badge/Portfolio-Live%20Site-green?style=for-the-badge&logo=google-chrome" />
+    <img src="https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=vercel&logoColor=white"/>
   </a>
 </p>
 
 ---
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:302b63,100:0f0c29&height=120&section=footer"/>
-</p>
+⚡ *"El código no es solo lógica, también es arte. Mi misión es construir software que deje huella."*
