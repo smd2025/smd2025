@@ -1,36 +1,59 @@
-# ​ ¡Hola! Soy René Caraballo García (smd2025)
+<h1 align="center">👋 ¡Hola! Soy René Caraballo García (smd2025)</h1>
 
-**Full Stack Web Developer** con más de 3 años de experiencia en Super Mente Digital S.R.L., apasionado por construir soluciones robustas, seguras y escalables.
-
----
-
-##  Áreas de Especialización
-
-###  Frontend
-HTML · CSS · JavaScript · AJAX · jQuery · TypeScript · Tailwind · Bootstrap · Canvas · PWA
-
-###  Backend
-PHP Core · NestJS (Microservicios, REST, WebSocket) · GraphQL (Apollo, Prisma)  
-Bases de datos: MySQL · PostgreSQL · Redis  
-Autenticación: JWT · Passport.js
-
-###  DevOps & Cloud
-Docker · Kubernetes · AWS (EC2, S3, Lambda, RDS) · CI/CD (GitHub Actions, GitLab CI)  
-Monitoreo: Prometheus · Grafana · Seguridad: UFW · Fail2ban · SSL
+<p align="center">
+  <b>Full Stack Web Developer</b> con +3 años de experiencia en <b>Super Mente Digital S.R.L.</b><br>
+  Apasionado por construir soluciones <b>robustas, seguras y escalables</b>.
+</p>
 
 ---
 
-## ​ Herramientas Destacadas
-- **Framework backend**: NestJS  
-- **Bases de datos**: MySQL, PostgreSQL, Redis  
-- **Infraestructura**: Docker, Kubernetes  
-- **Cloud**: AWS (EC2, S3, Lambda…)  
-- **CI/CD & Monitoreo**: GitHub Actions, GitLab CI, Prometheus, Grafana  
-- **Seguridad**: UFW, Fail2ban, certificados SSL
+## 🚀 Áreas de Especialización
+
+### 🎨 Frontend
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40"/> 
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" width="40"/>
+</p>
+
+### ⚙️ Backend
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-plain.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" width="40"/>
+</p>
+
+### ☁️ DevOps & Cloud
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/grafana/grafana-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/prometheus/prometheus-original.svg" width="40"/>
+</p>
 
 ---
 
-##  Proyectos Destacados
+## 🛠 Herramientas Destacadas
+- **Framework backend:** NestJS  
+- **Bases de datos:** MySQL, PostgreSQL, Redis  
+- **Infraestructura:** Docker, Kubernetes  
+- **Cloud:** AWS (EC2, S3, Lambda, RDS)  
+- **CI/CD & Monitoreo:** GitHub Actions, GitLab CI, Prometheus, Grafana  
+- **Seguridad:** UFW, Fail2ban, certificados SSL  
+
+---
+
+## 📌 Proyectos Destacados
 
 | Proyecto                | Tecnologías Principales                     | Descripción                                                                 |
 |-------------------------|----------------------------------------------|-----------------------------------------------------------------------------|
@@ -40,22 +63,34 @@ Monitoreo: Prometheus · Grafana · Seguridad: UFW · Fail2ban · SSL
 
 ---
 
-##  GitHub & Portafolio
+## 📊 GitHub & Portafolio
 
-📊 **Estadísticas de GitHub**  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=smd2025&show_icons=true&theme=tokyonight)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=smd2025&layout=compact&theme=tokyonight)
+<div align="center">
 
-🌐 **Visita mi portafolio:** [smd2025.github.io/portfolio](https://smd2025.github.io/portfolio/)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=smd2025&show_icons=true&theme=tokyonight&hide_border=true)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=smd2025&layout=compact&theme=tokyonight&hide_border=true)  
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=smd2025&theme=tokyo-night)
 
----
+🌐 **Portafolio:** [smd2025.github.io/portfolio](https://smd2025.github.io/portfolio/)
 
-##  Conecta conmigo
-
-[![Email](https://img.shields.io/badge/Email-Contact me-blue?style=flat-square)](mailto:supermentedigital.srl@gmail.com)  
-[![GitHub](https://img.shields.io/badge/GitHub-smd2025-black?style=flat-square)](https://github.com/smd2025)  
-[![Portfolio](https://img.shields.io/badge/Portfolio-Live-Site-blue?style=flat-square)](https://smd2025.github.io/portfolio/)
+</div>
 
 ---
 
-> “Construyo soluciones seguras y escalables que impulsan la innovación digital.”
+## 🤝 Conecta conmigo
+
+<p align="center">
+  <a href="mailto:supermentedigital.srl@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact%20Me-blue?style=for-the-badge&logo=gmail" />
+  </a>
+  <a href="https://github.com/smd2025">
+    <img src="https://img.shields.io/badge/GitHub-smd2025-black?style=for-the-badge&logo=github" />
+  </a>
+  <a href="https://smd2025.github.io/portfolio/">
+    <img src="https://img.shields.io/badge/Portfolio-Live%20Site-orange?style=for-the-badge&logo=google-chrome" />
+  </a>
+</p>
+
+---
+
+<p align="center"><i>"Construyo soluciones seguras y escalables que impulsan la innovación digital."</i></p>
