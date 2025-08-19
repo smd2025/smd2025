@@ -4,7 +4,7 @@
 <h1 align="center">👋 ¡Hola! Soy <span style="color:#0ff;">Rene Caraballo García</span> 🚀</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2800&pause=200&color=00F7FF&center=true&vCenter=true&width=650&lines=Full+Stack+Developer+%7C+Backend+Specialist;Experto+en+Microservicios+con+NestJS;Cloud+%7C+DevOps+%7C+Arquitectura+Escalable;3%2B+Años+de+experiencia+en+Super+Mente+Digital+S.R.L;Apasionado+por+la+ciberseguridad+y+la+automatización" alt="Typing Animation" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2800&pause=200&color=00F7FF&center=true&vCenter=true&width=650&lines=Full+Stack+Developer+%7C+Backend+Specialist;Microservicios+con+NestJS;Cloud+%7C+DevOps+%7C+Arquitectura+Escalable;3%2B+Años+de+experiencia+en+Super+Mente+Digital+S.R.L;Apasionado+por+la+ciberseguridad+y+la+automatización" alt="Typing Animation" />
 </p>
 
 ---
