@@ -21,7 +21,7 @@ Actualmente me desempeño como desarrollador en **Super Mente Digital S.R.L** co
   <!-- Lenguajes -->
   <img src="https://skillicons.dev/icons?i=html,css,js,ts,php,python" /><br>
   <!-- Frameworks -->
-  <img src="https://skillicons.dev/icons?i=nestjs,nodejs,express" /><br>
+  <img src="https://skillicons.dev/icons?i=nestjs,nodejs,express,golang" /><br>
   <!-- Bases de datos -->
   <img src="https://skillicons.dev/icons?i=mysql,postgres" /><br>
   <!-- DevOps -->
